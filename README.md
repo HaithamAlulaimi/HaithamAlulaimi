@@ -1,4 +1,4 @@
-<h1 align="center">  Hi, I'm Haitham Alulaimi</h1>
+<h1 align="center">  Hello < Developers/ > ! , I'm Haitham Alulaimi</h1>
 <h3 align="center">A passionate Full Stack Web developer from Jordan</h3>
 
  <div align="center">
