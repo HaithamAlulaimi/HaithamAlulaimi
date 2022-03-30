@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **HaithamAlulaimi@gmail.com**
 
-- 📄 Know about my experiences <a href="https://docdro.id/uES8uv0](https://docdro.id/uES8uv0" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/thin-files-documents/57/thin-081_file_document_cv_curriculum_vitae-512.png" height="30" width="40" /></a>
+- 📄 Know about my experiences <a href="https://docdro.id/uES8uv0](https://docdro.id/uES8uv0" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/thin-files-documents/57/thin-081_file_document_cv_curriculum_vitae-512.png" height="30" width="30" /></a>
  
  
  
