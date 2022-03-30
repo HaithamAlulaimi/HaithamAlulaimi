@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-9090
-Fork on GitHub
-2038
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Haitham Alulaimi</h1>
 <h3 align="center">A passionate Full Stack Web developer from Jordan</h3>
 
