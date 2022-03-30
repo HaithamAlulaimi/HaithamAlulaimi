@@ -23,6 +23,9 @@
 
 - ⚡ Fun fact **I'm Mechanical Engineer**
 
+   <br />
+  <br />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/haitham-alulaimi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/haitham-alulaimi/" height="30" width="40" /></a>
@@ -30,7 +33,9 @@
 </p>
 
  
- 
+   <br />
+  <br />
+
  <h3 align="left">Languages and Tools:</h3>
 
  <p>
@@ -54,12 +59,6 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
-
-  
-
-
-  
-
  
 </p>
 
