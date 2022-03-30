@@ -35,8 +35,6 @@
 <a href="https://fb.com/https://www.facebook.com/haithamalulaimi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/haithamalulaimi/" height="30" width="40" /></a>
 </p>
 
- 
-   <br />
   <br />
 
    ## Languages and Tools
