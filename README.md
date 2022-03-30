@@ -7,7 +7,7 @@
   
   ## About Me    
   
-- 🔭 I’m currently working on **HEX online Courses**
+- 🔭 I’m currently working on **HEX Online Courses**
 
 - 🌱 I’m currently learning **Flutter , PHP ,Angular**
  
