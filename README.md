@@ -7,11 +7,11 @@
   
   ## About Me    
   
-- 🔭 I’m currently working on **HEX online Courses **
+- 🔭 I’m currently working on **HEX online Courses**
 
-- 🌱 I’m currently learning **Flutter , PHP ,Angular **
+- 🌱 I’m currently learning **Flutter , PHP ,Angular**
  
-- 👯 I’m looking to collaborate on any thing !
+- 👯 I’m looking to collaborate on **any thing !**
 
 - 💬 Ask me about **Ask me about anything, I am happy to help.**
 
