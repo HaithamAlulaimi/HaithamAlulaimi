@@ -7,10 +7,6 @@
   
   ## About Me    
   
-<!--   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true"  width="50" height="40"> -->
-   
-  
-
 - 🔭 I’m currently working on **HEX online Courses**
 
 - 🌱 I’m currently learning **Flutter , PHP ,Angular**
@@ -26,7 +22,9 @@
    <br />
   <br />
 
-<h3 align="left">Connect with me:</h3>
+ 
+  ## Connect with me   
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/haitham-alulaimi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/haitham-alulaimi/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/haithamalulaimi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/haithamalulaimi/" height="30" width="40" /></a>
@@ -36,7 +34,7 @@
    <br />
   <br />
 
- <h3 align="left">Languages and Tools:</h3>
+   ## Languages and Tools
 
  <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
