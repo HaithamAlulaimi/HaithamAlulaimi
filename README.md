@@ -7,15 +7,20 @@
   
   ## About Me    
   
-- 🔭 I’m currently working on **HEX online Courses**
+- 🔭 I’m currently working on **HEX online Courses **
 
-- 🌱 I’m currently learning **Flutter , PHP ,Angular**
+- 🌱 I’m currently learning **Flutter , PHP ,Angular **
+ 
+- 👯 I’m looking to collaborate on any thing !
 
-- 💬 Ask me about **React , Java Script ,CSS ,HTML**
+- 💬 Ask me about **Ask me about anything, I am happy to help.**
 
-- 📫 How to reach me **HaithamAlulaimi@gmail.com,+962785247276**
+- 📫 How to reach me **HaithamAlulaimi@gmail.com**
 
-- 📄 Know about my experiences [https://docdro.id/uES8uv0](https://docdro.id/uES8uv0)
+- 📄 Know about my experiences <a href="https://docdro.id/uES8uv0](https://docdro.id/uES8uv0" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/thin-files-documents/57/thin-081_file_document_cv_curriculum_vitae-512.png" height="30" width="40" /></a>
+ 
+ 
+ 
 
 - ⚡ Fun fact **I was a mechanical engineering before becoming a software engineer.**
 
