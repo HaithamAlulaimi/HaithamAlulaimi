@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://docdro.id/uES8uv0](https://docdro.id/uES8uv0)
 
-- ⚡ Fun fact **I'm Mechanical Engineer**
+- ⚡ Fun fact **I was a mechanical engineering before becoming a software engineer.**
 
    <br />
   <br />
