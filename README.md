@@ -59,7 +59,8 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
    <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-</p>
+   <code><img width="15%" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg"></code>
+  </p>
 
  
  
