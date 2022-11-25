@@ -7,17 +7,15 @@
   
   ## About Me    
   
-- 🔭 I’m currently working on **HEX Online Courses**
+- 🔭 I’m currently working as **Software & Quality Engineer**
 
-- 🌱 I’m currently learning **Flutter , PHP ,Angular**
+- 🌱 I’m currently learning **JAVA, IONIC**
  
-- 👯 I’m looking to collaborate on **any thing !**
-
 - 💬 Ask me about **Ask me about anything, I am happy to help.**
 
 - 📫 How to reach me **HaithamAlulaimi@gmail.com**
 
-- 📄 Know about my **experiences** <a href="https://docdro.id/uES8uv0](https://docdro.id/uES8uv0" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/thin-files-documents/57/thin-081_file_document_cv_curriculum_vitae-512.png" height="30" width="30" /></a>
+
  
  
  
@@ -31,8 +29,8 @@
   ## Connect with me   
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/haitham-alulaimi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/haitham-alulaimi/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/haithamalulaimi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/haithamalulaimi/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/haitham-alulaimi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/haitham-alulaimi/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/haithamalulaimi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/haithamalulaimi/" height="30" width="40" /></a>
 </p>
 
   <br />
